@@ -131,5 +131,5 @@ Your task is to write a Java program that finds the maximum of two numbers. You 
 - The app should be pushed to Github and a pull request should be created. You can check how to push your code to Github in section [2.1.2 Add Changes](https://github.com/Programming-Club-IAU/git-and-github#212-add-changes).
 - The pull request title should be in the following format: `<your-name> - <project-name>`. You can check how to make a pull request in section [2.1.5. Create a pull request](ttps://github.com/Programming-Club-IAU/git-and-github#215-create-a-pull-request).
 - The pull request description should contain the following:
-  - A description of the changes made..
+  - A description of your project.
   - A screenshot of the app.
